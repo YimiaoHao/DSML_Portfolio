@@ -1,4 +1,5 @@
 # DSML_Portfolio
+This repository contains week-by-week DSML portfolio work for Semester 2.
 
 ## Week 01 — Wine Dataset (k-means + kNN)
 
